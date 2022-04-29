@@ -7,7 +7,7 @@ Vir-MinION requires few arguments to run, and its syntax is intuitive
 
 Usage: VirMinION-Pipe.sh PreProcDataFolder PreProcOutFolder BaseCallConfFile BarCodeKit NumOfThread Method [--read_based | --ass_based | --clust_based]
 
-Refer to [Vir-MinION_Installation_Manual.docx](https://github.com/emiliomastriani/Vir-MinION/files/8587942/Vir-MinION_Installation_Manual.docx) to install and configure Vir-MinION on your NVIDIA machine
+Refer to [Vir-MinION_Installation_Manual.pdf](https://github.com/emiliomastriani/Vir-MinION/files/8588447/Vir-MinION_Installation_Manual.pdf) to install and configure Vir-MinION on your NVIDIA machine
 
 Refer to [Vir-MinION_User_Manual.pdf](https://github.com/emiliomastriani/Vir-MinION/files/8588323/Vir-MinION_User_Manual.pdf) for a quick use of Vir-MinION
 
