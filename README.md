@@ -11,6 +11,6 @@ Refer to [Vir-MinION_Installation_Manual.pdf](https://github.com/emiliomastriani
 
 Refer to [Vir-MinION_User_Manual.pdf](https://github.com/emiliomastriani/Vir-MinION/files/8737060/Vir-MinION_User_Manual.pdf) for a quick use of Vir-MinION
 
-Refer to [VIRMINION-CAMISIM_DEEPSIM.txt](https://github.com/emiliomastriani/Vir-MinION/files/8737016/VIRMINION-CAMISIM_DEEPSIM.txt) for generating synthetic data using CAMISIM/DEEPSIM and run Vir-MinION using it. If you prefer to use synthetic data used during the Vir-MinION test, download the following file multi_viruses_fast5.tgz
+Refer to [VIRMINION-CAMISIM_DEEPSIM.txt](https://github.com/emiliomastriani/Vir-MinION/files/8737016/VIRMINION-CAMISIM_DEEPSIM.txt) for generating synthetic data using CAMISIM/DEEPSIM and run Vir-MinION using it. If you prefer to use synthetic data used during the Vir-MinION test, download the following file multi_viruses_fast5.tgz (https://github.com/emiliomastriani/Vir-MinION/blob/main/multi_viruses_fast5.tgz)
 
 Refer to [CreateDBs.txt](https://github.com/emiliomastriani/Vir-MinION/files/8737052/CreateDBs.txt) for a step-by-step guide on installing and configuring the DBs need by Vir-MinION
